@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="32mm"
+   height="36mm"
+   viewBox="0 0 32 36"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25)"
+   sodipodi:docname="描画７.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.2434077"
+     inkscape:cx="78.815661"
+     inkscape:cy="135.9168"
+     inkscape:window-width="1440"
+     inkscape:window-height="847"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="color:#000000;-inkscape-font-specification:'Arial Bold';fill:#d92b44;stroke-linejoin:round;-inkscape-stroke:none;paint-order:stroke markers fill"
+       d="M 1.7792969,3.0039063 A 0.10001,0.10001 0 0 0 1.6953125,3.1582031 L 12.779297,20.683594 v 12.724609 a 0.10001,0.10001 0 0 0 0.09961,0.09961 h 6.097656 a 0.10001,0.10001 0 0 0 0.09961,-0.09961 V 20.724609 L 30.203125,3.1582031 a 0.10001,0.10001 0 0 0 -0.08398,-0.1542968 h -7.048829 a 0.10001,0.10001 0 0 0 -0.08594,0.050781 L 16.082031,14.894531 9.0371094,3.0527344 A 0.10001,0.10001 0 0 0 8.9511719,3.0039063 Z M 1.9609375,3.2050781 H 8.8945313 L 15.998047,15.144531 a 0.10001,0.10001 0 0 0 0.171875,0 L 23.126953,3.2050781 h 6.808594 L 18.892578,20.642578 a 0.10001,0.10001 0 0 0 -0.01563,0.05273 V 33.308594 H 12.978516 V 20.654297 a 0.10001,0.10001 0 0 0 -0.01563,-0.05273 z"
+       id="path1" />
+    <path
+       style="color:#000000;-inkscape-font-specification:'Arial Bold';fill:#d92b44;stroke-linejoin:round;-inkscape-stroke:none;paint-order:stroke markers fill"
+       d="M 12.879253,33.407852 V 20.654118 L 1.7791632,3.104815 H 8.9518466 L 16.083189,15.093738 23.069837,3.104815 h 7.04866 l -11.14143,17.590644 v 12.712393 z"
+       id="path2" />
+  </g>
+</svg>
